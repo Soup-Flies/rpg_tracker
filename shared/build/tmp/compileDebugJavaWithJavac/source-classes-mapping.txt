@@ -1,0 +1,2 @@
+me/soupflies/shared/BuildConfig.java
+ me.soupflies.shared.BuildConfig

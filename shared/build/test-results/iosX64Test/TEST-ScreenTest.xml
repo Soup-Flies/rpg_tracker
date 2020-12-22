@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ScreenTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-12-15T03:44:00" hostname="Bens-MacBook-Pro.local" time="0.114">
+  <properties/>
+  <testcase name="test[iosX64]" classname="ScreenTest" time="0.114">
+    <failure message="kotlin.UninitializedPropertyAccessException: lateinit property name has not been initialized" type="kotlin.UninitializedPropertyAccessException">kotlin.UninitializedPropertyAccessException: lateinit property name has not been initialized
+	at kotlin.Throwable#&lt;init&gt;(/Users/teamcity1/teamcity_work/f01984a9f5203417/runtime/src/main/kotlin/kotlin/Throwable.kt:23)
+	at kotlin.Exception#&lt;init&gt;(/Users/teamcity1/teamcity_work/f01984a9f5203417/runtime/src/main/kotlin/kotlin/Exceptions.kt:23)
+	at kotlin.RuntimeException#&lt;init&gt;(/Users/teamcity1/teamcity_work/f01984a9f5203417/runtime/src/main/kotlin/kotlin/Exceptions.kt:34)
+	at kotlin.UninitializedPropertyAccessException#&lt;init&gt;(/Users/teamcity1/teamcity_work/f01984a9f5203417/runtime/src/main/kotlin/kotlin/Exceptions.kt:148)
+	at kotlin.native.internal#ThrowUninitializedPropertyAccessException(/Users/teamcity1/teamcity_work/f01984a9f5203417/runtime/src/main/kotlin/kotlin/native/internal/RuntimeUtils.kt:67)
+	at screen.Component#&lt;get-name&gt;(/Users/soupflies/Documents/Work/personal/rpg_tracker/shared/src/commonMain/kotlin/screen/Screen.kt:11)
+	at screen.Component#toString(/Users/soupflies/Documents/Work/personal/rpg_tracker/shared/src/commonMain/kotlin/screen/Screen.kt:54)
+	at kotlin.io#println(/Users/teamcity1/teamcity_work/f01984a9f5203417/runtime/src/main/kotlin/kotlin/io/Console.kt:24)
+	at &lt;global&gt;.ScreenTest#test(/Users/soupflies/Documents/Work/personal/rpg_tracker/shared/src/commonTest/kotlin/ScreenTest.kt:19)
+	at $ScreenTest$test$0.$test$FUNCTION_REFERENCE$2.invoke#internal(/Users/soupflies/Documents/Work/personal/rpg_tracker/shared/src/commonTest/kotlin/ScreenTest.kt:7)
+	at $ScreenTest$test$0.$test$FUNCTION_REFERENCE$2.$&lt;bridge-UNNN&gt;invoke(/Users/soupflies/Documents/Work/personal/rpg_tracker/shared/src/commonTest/kotlin/ScreenTest.kt:7)
+	at kotlin.native.internal.test.BaseClassSuite.TestCase#run(/Users/teamcity1/teamcity_work/f01984a9f5203417/runtime/src/main/kotlin/kotlin/native/internal/test/TestSuite.kt:85)
+	at kotlin.native.internal.test.TestRunner.run#internal(/Users/teamcity1/teamcity_work/f01984a9f5203417/runtime/src/main/kotlin/kotlin/native/internal/test/TestRunner.kt:236)
+	at kotlin.native.internal.test.TestRunner.runIteration#internal(/Users/teamcity1/teamcity_work/f01984a9f5203417/runtime/src/main/kotlin/kotlin/native/internal/test/TestRunner.kt:258)
+	at kotlin.native.internal.test.TestRunner#run(/Users/teamcity1/teamcity_work/f01984a9f5203417/runtime/src/main/kotlin/kotlin/native/internal/test/TestRunner.kt:273)
+	at kotlin.native.internal.test#testLauncherEntryPoint(/Users/teamcity1/teamcity_work/f01984a9f5203417/runtime/src/main/kotlin/kotlin/native/internal/test/Launcher.kt:22)
+	at kotlin.native.internal.test#main(/Users/teamcity1/teamcity_work/f01984a9f5203417/runtime/src/main/kotlin/kotlin/native/internal/test/Launcher.kt:26)
+	at &lt;global&gt;.Konan_start(/Users/teamcity1/teamcity_work/f01984a9f5203417/runtime/src/main/kotlin/kotlin/native/internal/test/Launcher.kt:25)
+	at &lt;global&gt;.Init_and_run_start(Unknown Source)
+	at &lt;global&gt;.start(Unknown Source)
+	at &lt;global&gt;.0x0(Unknown Source)
+</failure>
+  </testcase>
+  <system-out><![CDATA[Invalid connection: com.apple.coresymbolicationd
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

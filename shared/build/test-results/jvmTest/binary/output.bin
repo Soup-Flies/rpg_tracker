@@ -1,0 +1,66 @@
+Sheet: 
+
+  Stats: 
+    Strength: 0
+      Mod: -5
+
+    Dexterity: 0
+      Mod: -5
+
+    Constitution: 0
+      Mod: -5
+
+    Intelligence: 0
+      Mod: -5
+
+    Wisdom: 0
+      Mod: -5
+
+    Charisma: 0
+      Mod: -5
+
+
+  Passive perception: 0
+  yo_string_list: 
+    yo_0: 
+    yo_1: 
+    yo_2: 
+    yo_3: 
+    yo_4: 
+    yo_5: 
+    yo_6: 
+    yo_7: 
+    yo_8: 
+    yo_9: 
+
+
+
+	RECURSE:
+
+Sheet
+ Stats
+   Strength
+	     Mod
+   Dexterity
+	     Mod
+   Constitution
+	     Mod
+   Intelligence
+	     Mod
+
+   Wisdom
+	     Mod
+   Charisma
+	     Mod
+ Passive perception
+ yo_string_list
+   yo_0
+   yo_1
+   yo_2
+   yo_3
+   yo_4
+   yo_5
+   yo_6
+   yo_7
+   yo_8
+   yo_9

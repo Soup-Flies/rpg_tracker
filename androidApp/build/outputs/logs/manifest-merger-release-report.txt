@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+MERGED from [:shared] /Users/soupflies/Documents/Work/personal/rpg_tracker/shared/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/6dba1ede39ae24c5227337e9b47b0b5d/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/b5f2aca54677eb200188590871a063c7/constraintlayout-2.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/85aa191dd54456d512ae53ebb7ecc54b/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/36185316762246051147369aff6a465d/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/a8ba079f2bdb5a500d0eb7d7b8dd0912/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/87aea06e62116e224ecfb6679707117a/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/b9b02ec5313fe6d51bac854a8c971d01/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/b81169cd7fd28e6b2e85473a120c29ea/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/2ec7622673ee31f3c2c0f47f24313adf/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/3aa9a51c79da22950c8dee0603a56f94/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/4a76cc8ae0da3c43d0654167a172ea74/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/d2c8e29664819012670966509f882847/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/eea3bfb542f965fe250df9b170a95674/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/49a5eeaa37d2b65646569548f3627486/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/b6745ef62069855a5f8507c727f8e083/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/9b7a88fb28675ebda08e1b6e72a61241/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/d98a3e9c1faffa4fe66d1ed2d8c33f2a/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/fb07cadddd6d0a1db24d6d81050cc92f/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/a4e5342c04e9a0f3b4da9dca2211f23d/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/e386cedcd1d915fa62ae487d697467c4/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/c11f195828b98d95ed56bc4f62caef0a/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/e1ec00d8792f24cb3ba7684bda3ff5df/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/1eba74f64db9a1285716b8b6a6bc1f3c/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/2357a3508454301ffa9f2ea6db9dcee6/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/1d3207ee3e495bbc8e409ac2577acf1b/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/68deb79b365db67e284ab8bc1f96b0df/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/826173c83b61db37985cd1154c16a694/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/f0cd7d6b1d8eee3a05ce2bb27b4d2a92/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+	package
+		ADDED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:2:70-103
+		INJECTED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+		INJECTED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+		INJECTED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:3:5-13:19
+MERGED from [com.google.android.material:material:1.2.1] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/6dba1ede39ae24c5227337e9b47b0b5d/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/6dba1ede39ae24c5227337e9b47b0b5d/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/b5f2aca54677eb200188590871a063c7/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/b5f2aca54677eb200188590871a063c7/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/a4e5342c04e9a0f3b4da9dca2211f23d/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/a4e5342c04e9a0f3b4da9dca2211f23d/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/e386cedcd1d915fa62ae487d697467c4/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/e386cedcd1d915fa62ae487d697467c4/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/a4e5342c04e9a0f3b4da9dca2211f23d/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:5:13-39
+	android:allowBackup
+		ADDED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:4:13-40
+	android:theme
+		ADDED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:6:13-44
+activity#me.soupflies.androidApp.MainActivity
+ADDED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:7:9-12:20
+	android:name
+		ADDED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:7:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:8:13-11:29
+action#android.intent.action.MAIN
+ADDED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:9:17-68
+	android:name
+		ADDED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:9:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:10:17-76
+	android:name
+		ADDED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml:10:27-74
+uses-sdk
+INJECTED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/soupflies/Documents/Work/personal/rpg_tracker/shared/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared] /Users/soupflies/Documents/Work/personal/rpg_tracker/shared/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/6dba1ede39ae24c5227337e9b47b0b5d/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/6dba1ede39ae24c5227337e9b47b0b5d/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/b5f2aca54677eb200188590871a063c7/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/b5f2aca54677eb200188590871a063c7/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/85aa191dd54456d512ae53ebb7ecc54b/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/85aa191dd54456d512ae53ebb7ecc54b/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/36185316762246051147369aff6a465d/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/36185316762246051147369aff6a465d/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/a8ba079f2bdb5a500d0eb7d7b8dd0912/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/a8ba079f2bdb5a500d0eb7d7b8dd0912/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/87aea06e62116e224ecfb6679707117a/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/87aea06e62116e224ecfb6679707117a/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/b9b02ec5313fe6d51bac854a8c971d01/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/b9b02ec5313fe6d51bac854a8c971d01/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/b81169cd7fd28e6b2e85473a120c29ea/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/b81169cd7fd28e6b2e85473a120c29ea/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/2ec7622673ee31f3c2c0f47f24313adf/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/2ec7622673ee31f3c2c0f47f24313adf/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/3aa9a51c79da22950c8dee0603a56f94/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/3aa9a51c79da22950c8dee0603a56f94/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/4a76cc8ae0da3c43d0654167a172ea74/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/4a76cc8ae0da3c43d0654167a172ea74/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/d2c8e29664819012670966509f882847/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/d2c8e29664819012670966509f882847/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/eea3bfb542f965fe250df9b170a95674/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/eea3bfb542f965fe250df9b170a95674/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/49a5eeaa37d2b65646569548f3627486/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/49a5eeaa37d2b65646569548f3627486/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/b6745ef62069855a5f8507c727f8e083/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/b6745ef62069855a5f8507c727f8e083/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/9b7a88fb28675ebda08e1b6e72a61241/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/9b7a88fb28675ebda08e1b6e72a61241/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/d98a3e9c1faffa4fe66d1ed2d8c33f2a/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/d98a3e9c1faffa4fe66d1ed2d8c33f2a/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/fb07cadddd6d0a1db24d6d81050cc92f/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/fb07cadddd6d0a1db24d6d81050cc92f/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/a4e5342c04e9a0f3b4da9dca2211f23d/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/a4e5342c04e9a0f3b4da9dca2211f23d/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/e386cedcd1d915fa62ae487d697467c4/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/e386cedcd1d915fa62ae487d697467c4/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/c11f195828b98d95ed56bc4f62caef0a/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/c11f195828b98d95ed56bc4f62caef0a/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/e1ec00d8792f24cb3ba7684bda3ff5df/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/e1ec00d8792f24cb3ba7684bda3ff5df/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/1eba74f64db9a1285716b8b6a6bc1f3c/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/1eba74f64db9a1285716b8b6a6bc1f3c/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/2357a3508454301ffa9f2ea6db9dcee6/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/2357a3508454301ffa9f2ea6db9dcee6/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/1d3207ee3e495bbc8e409ac2577acf1b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/1d3207ee3e495bbc8e409ac2577acf1b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/68deb79b365db67e284ab8bc1f96b0df/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/68deb79b365db67e284ab8bc1f96b0df/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/826173c83b61db37985cd1154c16a694/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/826173c83b61db37985cd1154c16a694/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/f0cd7d6b1d8eee3a05ce2bb27b4d2a92/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/soupflies/.gradle/caches/transforms-2/files-2.1/f0cd7d6b1d8eee3a05ce2bb27b4d2a92/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/soupflies/Documents/Work/personal/rpg_tracker/androidApp/src/main/AndroidManifest.xml
